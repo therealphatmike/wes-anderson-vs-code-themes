@@ -1,0 +1,25 @@
+{
+    "name": "steve-zissou",
+    "displayName": "Steve Zissou",
+    "description": "Steve Zissou's favourite VS Code theme",
+    "version": "0.0.1",
+    "publisher": "therealphatmike",
+    "repository": {
+        "url": "https://github.com/therealphatmike/steve-zissou"
+    },
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Steve Zissou",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Steve Zissou-color-theme.json"
+            }
+        ]
+    }
+}
