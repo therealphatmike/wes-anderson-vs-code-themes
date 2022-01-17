@@ -1,5 +1,5 @@
 {
-	"name": "Steve Zissou",
+	"name": "The Life Aquatic Dark",
 	"type": "dark",
 	"colors": {
 		"activityBar.background": "#07140c",
@@ -108,7 +108,7 @@
 		"panel.border": "#dd0000",
 		"panelTitle.activeBorder": "#dd0000",
 		"panelTitle.activeForeground": "#dd0000",
-		"panelTitle.inactiveForeground": "#dd0000de",
+		"panelTitle.inactiveForeground": "#dd0000",
 		"peekView.border": "#b28b68",
 		"peekViewEditor.background": "#07140c",
 		"peekViewEditor.matchHighlightBackground": "#36677b",
@@ -127,7 +127,7 @@
 		"scrollbarSlider.hoverBackground": "#dd000078",
 		"sideBar.background": "#07140c",
 		"sideBar.border": "#07140c",
-		"sideBar.foreground": "#dd0000d3",
+		"sideBar.foreground": "#f6de22",
 		"sideBarTitle.foreground": "#ced6da",
 		"statusBar.background": "#07140ce5",
 		"statusBar.border": "#dd0000",
@@ -143,7 +143,7 @@
 		"tab.activeForeground": "#dd0000",
 		"tab.border": "#07140c",
 		"tab.hoverBackground": "#ff00593d",
-		"tab.hoverBorder": "#dd0000",
+		"tab.hoverBorder": "#f6de22",
 		"tab.inactiveBackground": "#07140c",
 		"tab.inactiveForeground": "#dd0000de",
 		"terminal.foreground": "#36677b",
